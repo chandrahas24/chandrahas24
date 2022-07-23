@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandrahas24
-- 👀 I’m interested in ... Coding,Natural language processing
+- 👀 I’m interested in ... Full Stack Developer, Data Scientist
 - 🌱 I’m currently learning ...java and Deep learning and ML
 - 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... chandrahaskumar24@gmail.com
